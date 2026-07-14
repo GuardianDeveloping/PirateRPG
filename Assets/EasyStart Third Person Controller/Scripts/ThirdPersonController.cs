@@ -1,5 +1,6 @@
 ﻿
 using System.Security.Cryptography;
+using System.Security.Cryptography.X509Certificates;
 using UnityEngine;
 
 /*
@@ -41,6 +42,8 @@ public class ThirdPersonController : MonoBehaviour
     bool inputSprint;
     bool IsSwordDrawn;
     private float verticalVelocity;
+
+    private bool isAttacking;
 
     Animator animator;
     CharacterController cc;
@@ -91,6 +94,13 @@ public class ThirdPersonController : MonoBehaviour
                 animator.SetBool("IsSwordDrawn", true);
             }
         }
+
+        if (Input.GetMouseButtonDown(0) && IsSwordDrawn && !isAttacking)
+        {
+            animator.SetTrigger("Attacking");
+            isAttacking = true;
+        }
+
 
         // Check if you pressed the crouch input key and change the player's state
         if (inputCrouch)
@@ -180,6 +190,13 @@ public class ThirdPersonController : MonoBehaviour
 
         verticalVelocity -= gravity * Time.deltaTime;
 
+        if (isAttacking)
+        {
+            inputHorizontal = 0f;
+            inputVertical = 0f;
+        }
+
+
         // Rotate toward movement direction
         if (horizontalDirection.sqrMagnitude > 0.01f)
         {
@@ -216,6 +233,11 @@ public class ThirdPersonController : MonoBehaviour
         {
 
         }
+    }
+
+    public void EndAttack()
+    {
+        isAttacking = false;
     }
 
 }

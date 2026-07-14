@@ -325,3 +325,135 @@ Memory consumption went from 104.6 MB to 100.5 MB.
 Total: 4.437300 ms (FindLiveObjects: 0.303000 ms CreateObjectMapping: 0.057300 ms MarkObjects: 2.962400 ms  DeleteObjects: 1.113600 ms)
 
 Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 3467.988627 seconds.
+  path: Assets/Synty/PolygonPirates/Materials/FX/RainWater_FX_01.mat
+  artifactKey: Guid(47be28ae53899c440a4bdc7de32df96c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Synty/PolygonPirates/Materials/FX/RainWater_FX_01.mat using Guid(47be28ae53899c440a4bdc7de32df96c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '102e2ae1d43f1ff31bb5b01911c71914') in 0.0547165 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.221396 seconds.
+  path: Assets/Synty/PolygonGeneric/Textures/Generic_Carpet.png
+  artifactKey: Guid(6aed47bab38a0024c8d66c70794d02f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Synty/PolygonGeneric/Textures/Generic_Carpet.png using Guid(6aed47bab38a0024c8d66c70794d02f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7c045cec91cb70f072d60187570546e7') in 0.0175875 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006824 seconds.
+  path: Assets/Synty/PolygonGeneric/Textures/Generic_Concrete.png
+  artifactKey: Guid(69d71723f0e357a488acfa919c0b339a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Synty/PolygonGeneric/Textures/Generic_Concrete.png using Guid(69d71723f0e357a488acfa919c0b339a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4a6cd9bd5d631fe705a69ac80f69526d') in 0.01062 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Synty/PolygonGeneric/Textures/Generic_Ivy.tga
+  artifactKey: Guid(58ad448fe05e40949b6ae8bae3b873d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Synty/PolygonGeneric/Textures/Generic_Ivy.tga using Guid(58ad448fe05e40949b6ae8bae3b873d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a76ce3cccc3d43b4c3dbc5b699b1f234') in 0.0077121 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Synty/PolygonGeneric/Textures/Generic_Grass_Normals.png
+  artifactKey: Guid(61ec974f61e6f8b4594aa2e3fb46704c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Synty/PolygonGeneric/Textures/Generic_Grass_Normals.png using Guid(61ec974f61e6f8b4594aa2e3fb46704c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8781501699ef2713fdb8f8a7059caddc') in 0.0144581 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002267 seconds.
+  path: Assets/Synty/PolygonGeneric/Textures/Generic_Rock.png
+  artifactKey: Guid(8497999e0c80df443b7750c2147da3d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Synty/PolygonGeneric/Textures/Generic_Rock.png using Guid(8497999e0c80df443b7750c2147da3d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7398cd386029d1f89f287c7a09fba6e6') in 0.0082131 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Synty/PolygonGeneric/Textures/Generic_Rock_Normals.png
+  artifactKey: Guid(257692a2380bb0744ad1bb96bb92d4c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Synty/PolygonGeneric/Textures/Generic_Rock_Normals.png using Guid(257692a2380bb0744ad1bb96bb92d4c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6c28fa03080b19a51fb0fde9b71fcd83') in 0.0079475 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/Synty/PolygonGeneric/Textures/Generic_Water.png
+  artifactKey: Guid(557e083761829454d875c98dbb0f0010) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Synty/PolygonGeneric/Textures/Generic_Water.png using Guid(557e083761829454d875c98dbb0f0010) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'be79c7ab7424952585b7c13de41801af') in 0.0084747 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000012 seconds.
+  path: Assets/Synty/PolygonGeneric/Textures/Generic_Water_Texture_02.png
+  artifactKey: Guid(e80bdfd17e7b902438ddab0c5fb587ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Synty/PolygonGeneric/Textures/Generic_Water_Texture_02.png using Guid(e80bdfd17e7b902438ddab0c5fb587ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'cb1d3ac47f1101c7dee1f7c501636665') in 0.009024 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Synty/PolygonGeneric/Textures/HairMask.png
+  artifactKey: Guid(407f8dd97d74d064db5de6a9df91449f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Synty/PolygonGeneric/Textures/HairMask.png using Guid(407f8dd97d74d064db5de6a9df91449f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'fe97469cef092ecdac387927bcde2982') in 0.0320193 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000012 seconds.
+  path: Assets/Synty/PolygonGeneric/Textures/SyntyLensDirt_02.png
+  artifactKey: Guid(c1031a60a1e38c74b8dc72da43828163) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Synty/PolygonGeneric/Textures/SyntyLensDirt_02.png using Guid(c1031a60a1e38c74b8dc72da43828163) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '47ac4f00229fa98e742d7547b0b7c7af') in 0.0111164 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/Synty/PolygonGeneric/Textures/SyntyLensDirt_01.png
+  artifactKey: Guid(3ac700ae08144a1488a8bf107242739b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Synty/PolygonGeneric/Textures/SyntyLensDirt_01.png using Guid(3ac700ae08144a1488a8bf107242739b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5ef41e8f9a7f8eebc4e2ce43625eba5f') in 0.0115318 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000009 seconds.
+  path: Assets/Synty/PolygonGeneric/Textures/Generic_Plaster.png
+  artifactKey: Guid(19194fafffa69fb4db586eff49fc91c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Synty/PolygonGeneric/Textures/Generic_Plaster.png using Guid(19194fafffa69fb4db586eff49fc91c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '132fd5ba9e2c9d2f52a3941eb2acec76') in 0.006945 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000060 seconds.
+  path: Assets/Synty/PolygonGeneric/Textures/Sky_01.png
+  artifactKey: Guid(2024dc8b7812f7c4597c5f4f0f7c9299) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Synty/PolygonGeneric/Textures/Sky_01.png using Guid(2024dc8b7812f7c4597c5f4f0f7c9299) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f1660d6e9afac056fde2582fb20e8902') in 0.0064911 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.832628 seconds.
+  path: Assets/Synty/PolygonPirates/Textures/PolygonPirates_03_B.png
+  artifactKey: Guid(cb5e96fe246190f4b8ded4dc50d75dde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Synty/PolygonPirates/Textures/PolygonPirates_03_B.png using Guid(cb5e96fe246190f4b8ded4dc50d75dde) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4b2dac6ca4fab36dc7e37cc2e526c0ec') in 0.0069023 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003923 seconds.
+  path: Assets/Synty/PolygonPirates/Textures/PolygonPirates_04_B.png
+  artifactKey: Guid(433174d60899cd9448650d4dcd2c4a11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Synty/PolygonPirates/Textures/PolygonPirates_04_B.png using Guid(433174d60899cd9448650d4dcd2c4a11) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '987035a02d3e7a0bc9a2fc89b02357e9') in 0.0064172 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
